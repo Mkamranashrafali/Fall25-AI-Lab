@@ -19,8 +19,9 @@ class ReflexAgent:
 
 
 rooms = {
-    "Hamza Room": 21,
     "Parents Room": 21, 
+    "Parents Room": 21, 
+
     "Drawing Room": 21,
     "Gaming Room": 26,
     "Brother's Room": 24
